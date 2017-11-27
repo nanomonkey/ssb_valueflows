@@ -13,6 +13,7 @@ http://www.sensorica.co/value-networks/development
     * Uses a valueflows api: https://github.com/FreedomCoop/valuenetwork/tree/master/valuenetwork/api
 * https://github.com/valnet/valuenetwork/blob/master/holodex/dhen-data/org.json 
 * https://github.com/valueflows/django-vocabulator
+* This uses the same model: http://locecon.org/
 
 This is interesting. 
 holodex = from @simontegg and @ahdinosaur (dinosaur on SSB) holodex software with the same organization model as ValueFlows, used by enspiral http://holodex.enspiral.com/ 
