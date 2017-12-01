@@ -7,6 +7,6 @@ Generated formats include rdf-xml, n-triples, n3, turtle, yaml, json-ld, and jso
 
 
 # sensorica http://nrp.sensorica.co
-demo or in actual use? click around in here for a while and smile :)
+demo or in actual use? (actual use!) click around in here for a while and smile :)
 http://nrp.sensorica.co/accounting/resource/262/
 
